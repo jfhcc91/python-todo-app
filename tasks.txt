@@ -1,3 +1,0 @@
-coffee
-tea
-milk
